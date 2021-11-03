@@ -1,0 +1,26 @@
+[
+    {
+      "OrderList": "YF83",
+      "StoreFrontOrderLocation": "52 Highwayman Lane",
+      "TotalPrice": "$20.00",
+      "ItemList": "KK50"
+    },
+    {
+      "OrderList": "CB00",
+      "StoreFrontOrderLocation": "412 Temple Blvd",
+      "TotalPrice": "$12.50",
+      "ItemList": "YU09"
+    },
+    {
+      "OrderList": "PJ76",
+      "StoreFrontOrderLocation": "1580 Lumbar Road",
+      "TotalPrice": "$10.00",
+      "ItemList": "KL14"
+    },
+    {
+      "OrderList": "GH27",
+      "StoreFrontOrderLocation": "4444 Action Ave",
+      "TotalPrice": "$55.00",
+      "ItemList": "HS04"
+    }
+  ]
